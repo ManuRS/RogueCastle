@@ -1,0 +1,41 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        html {
+            background: url(assets/fondos/trasera.jpg); 
+            background-size: cover;
+        }
+    </style>
+    <title>Rogue Castle</title>
+    <link rel="shortcut icon" href="assets/fondos/logo.png">
+    
+    <script>
+        window.requireNode = window.require;
+        window.require = undefined;
+    </script>
+    
+    <script type="text/javascript" src="lib/require.js" data-main="main">
+    </script>
+        
+    <style type="text/css">
+        @font-face{
+            font-family:MedievalSharp;
+            src: url(assets/fonts/MedievalSharp.ttf);
+            }
+
+       .hiddenText {
+           font-family: 'MedievalSharp', cursive;
+           visibility: hidden;
+           display: inline;
+       }
+    </style>
+
+    <p class="hiddenText"> . </p>
+    
+</head>
+<body>
+    <div id="gameContainer"></div>
+</body>
+</html>

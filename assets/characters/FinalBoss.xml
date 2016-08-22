@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="FinalBoss.png">
+	<SubTexture name="stay instance 10000" x="16" y="38" width="61" height="93"/>
+    <SubTexture name="stay instance 10001" x="94" y="38" width="61" height="93"/>
+    <SubTexture name="stay instance 10002" x="173" y="38" width="61" height="93"/>
+    <SubTexture name="stay instance 10003" x="257" y="38" width="61" height="93"/>
+    <SubTexture name="stay instance 10004" x="342" y="38" width="61" height="93"/>
+
+    <SubTexture name="hit instance 10005" x="15" y="1315" width="68" height="85"/>
+    <SubTexture name="hit instance 10006" x="103" y="1315" width="68" height="85"/>
+    <SubTexture name="hit instance 10007" x="194" y="1315" width="76" height="85"/>
+    <SubTexture name="hit instance 10008" x="290" y="1315" width="80" height="85"/>
+    <SubTexture name="hit instance 10009" x="390" y="1315" width="41" height="85"/>
+    <SubTexture name="hit instance 10010" x="464" y="1315" width="61" height="85"/>
+    <SubTexture name="hit instance 10011" x="550" y="1315" width="62" height="85"/>
+
+	<SubTexture name="brazo instance 10012" x="21" y="739" width="61" height="112"/>
+	<SubTexture name="brazo instance 10013" x="101" y="739" width="61" height="112"/>
+	<SubTexture name="brazo instance 10014" x="187" y="739" width="61" height="112"/>
+	<SubTexture name="brazo instance 10015" x="271" y="739" width="61" height="112"/>
+	<SubTexture name="brazo instance 10015" x="351" y="739" width="61" height="112"/>
+	<SubTexture name="brazo instance 10017" x="428" y="739" width="61" height="112"/>
+
+
+</TextureAtlas>

@@ -1,0 +1,339 @@
+{"mazmorra": 
+ [
+     {
+         "id": 0,
+         "position": {"x": 30,"y": 500},
+         "positionF": {"x": 960,"y": 500},
+         "numEnem": 0,
+         "enem": [{"x": 500,"y": 200, "tipo": "oso", "minX": 1, "maxX": 320}
+                 ]
+     },
+     {
+         "id": 1,
+         "position": {"x": 30, "y": 540},
+         "positionF": {"x": 970, "y": 250},
+         "numEnem": 2,
+         "enem": [{"x": 100,"y": 200,"tipo": "oso", "minX": 1, "maxX": 320},
+                  {"x": 510,"y": 320,"tipo": "defensor", "minX": 500, "maxX": 600}
+                 ]
+     },
+     {
+         "id": 2,
+         "position": {"x": 30, "y": 540},
+         "positionF": {"x": 970, "y": 180},
+         "numEnem": 3,
+         "enem": [{"x": 200,"y": 220,"tipo": "oso", "minX": 110, "maxX": 290},
+                  {"x": 500,"y": 320,"tipo": "rata", "minX": 460, "maxX": 800},
+                  {"x": 820,"y": 180,"tipo": "esbirro", "minX": 810, "maxX": 960}
+                 ]
+     },
+     {
+         "id": 3,
+         "position": {"x": 30, "y": 540},
+         "positionF": {"x": 970, "y": 300},
+         "numEnem": 2,
+         "enem": [{"x": 200,"y": 300,"tipo": "oso", "minX": 150, "maxX": 250},
+                  {"x": 470,"y": 350,"tipo": "esbirro", "minX": 460, "maxX": 640}
+                 ]
+     },
+     {
+         "id": 4,
+         "position": {"x": 30, "y": 540},
+         "positionF": {"x": 970, "y": 490},
+         "numEnem": 1,
+         "enem": [{"x": 500,"y": 430,"tipo": "oso", "minX": 400, "maxX": 600}
+                 ]
+     },
+     {
+         "id": 5,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 540},
+         "numEnem": 4,
+         "enem": [{"x": 400,"y": 400,"tipo": "oso", "minX": 51, "maxX": 500},
+                  {"x": 230,"y": 550,"tipo": "esbirro", "minX": 200, "maxX": 900},
+                  {"x": 900,"y": 300,"tipo": "torreta", "minX": -1, "maxX": 0},
+                  {"x": 100,"y": 550,"tipo": "torreta", "minX": 1, "maxX": 0}
+                 ]
+     },
+     {
+         "id": 6,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 300},
+         "numEnem": 4,
+         "enem": [{"x": 175,"y": 550,"tipo": "oso", "minX": 51, "maxX": 200},
+                  {"x": 300,"y": 550,"tipo": "esbirro", "minX": 210, "maxX": 350},
+                  {"x": 500,"y": 550,"tipo": "defensor", "minX": 360, "maxX": 600},
+                  {"x": 700,"y": 550,"tipo": "torreta", "minX": 0, "maxX": 0}
+                 ]
+     },
+     {
+         "id": 7,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 540},
+         "numEnem": 4,
+         "enem": [{"x": 175,"y": 550,"tipo": "esbirro", "minX": 51, "maxX": 200},
+                  {"x": 300,"y": 550,"tipo": "rata", "minX": 210, "maxX": 350},
+                  {"x": 500,"y": 550,"tipo": "defensor", "minX": 360, "maxX": 600},
+                  {"x": 700,"y": 550,"tipo": "torreta", "minX": 0, "maxX": 0}
+                 ]
+     },    
+     {
+         "id": 8,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 220},
+         "numEnem": 3,
+         "enem": [{"x": 175,"y": 550,"tipo": "esbirro", "minX": 51, "maxX": 200},
+                  {"x": 300,"y": 550,"tipo": "rata", "minX": 210, "maxX": 350},
+                  {"x": 500,"y": 550,"tipo": "esbirro", "minX": 360, "maxX": 600}
+                 ]
+     },
+     {
+         "id": 9,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 350},
+         "numEnem": 7,
+         "enem": [{"x": 300,"y": 300,"tipo": "esbirro", "minX": 210, "maxX": 350},
+                  {"x": 500,"y": 300,"tipo": "oso", "minX": 360, "maxX": 600},
+                  {"x": 500,"y": 550,"tipo": "defensor", "minX": 550, "maxX": 750},
+                  {"x": 175,"y": 550,"tipo": "esbirro", "minX": 51, "maxX": 200},
+                  {"x": 300,"y": 550,"tipo": "esbirro", "minX": 210, "maxX": 350},
+                  {"x": 500,"y": 550,"tipo": "esbirro", "minX": 360, "maxX": 600},
+                  {"x": 650,"y": 140,"tipo": "esbirro", "minX": 550, "maxX": 700}
+                 ]
+     },
+     {
+         "id": 10,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 400},
+         "numEnem": 1,
+         "enem": [{"x": 600,"y": 400,"tipo": "zeke", "minX": 370, "maxX": 950}]
+     },     
+     {
+         "id": 11,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 250},
+         "numEnem": 3,
+         "enem": [{"x": 500,"y": 450,"tipo": "oso", "minX": 1, "maxX": 900},
+                  {"x": 650,"y": 400,"tipo": "torreta", "minX": 0, "maxX": 0},
+                  {"x": 900,"y": 250,"tipo": "torreta", "minX": 0, "maxX": 0}
+                 ]
+     },
+     {
+         "id": 12,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 450},
+         "numEnem": 1,
+         "enem": [{"x": 900,"y": 450,"tipo": "rata", "minX": 720, "maxX": 970}]
+     },
+     {
+         "id": 13,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 350},
+         "numEnem": 4,
+         "enem": [{"x": 300,"y": 440,"tipo": "esbirro", "minX": 1, "maxX": 900},
+                  {"x": 650,"y": 440,"tipo": "rata", "minX": 1, "maxX": 900},
+                  {"x": 500,"y": 350,"tipo": "torreta", "minX": 0, "maxX": 0},
+                  {"x": 900,"y": 350,"tipo": "torreta", "minX": 0, "maxX": 0}
+                 ]
+     },
+     {
+         "id": 14,
+         "position": {"x": 30, "y": 450},
+         "positionF": {"x": 970, "y": 400},
+         "numEnem": 2,
+         "enem": [{"x": 500,"y": 400,"tipo": "defensor", "minX": 351, "maxX": 599},
+                  {"x": 800,"y": 400,"tipo": "torreta", "minX": 351, "maxX": 599}
+                 ]
+     },
+     {
+         "id": 15,
+         "position": {"x": 30, "y": 450},
+         "positionF": {"x": 970, "y": 400},
+         "numEnem": 1,
+         "enem": [{"x": 500,"y": 200,"tipo": "zeke", "minX": 320, "maxX": 660}]
+     },
+     {
+         "id": 16,
+         "position": {"x": 80, "y": 500},
+         "positionF": {"x": 970, "y": 500},
+         "numEnem": 5,
+         "enem": [{"x": 300,"y": 250,"tipo": "rata", "minX": 250, "maxX": 450},
+                  {"x": 650,"y": 250,"tipo": "rata", "minX": 600, "maxX": 800},
+                  {"x": 200,"y": 400,"tipo": "esbirro", "minX": 160, "maxX": 550},
+                  {"x": 560,"y": 400,"tipo": "esbirro", "minX": 550, "maxX": 750},
+                  {"x": 800,"y": 400,"tipo": "torreta", "minX": 550, "maxX": 800}
+                 ]
+     },
+     {
+         "id": 17,
+         "position": {"x": 30, "y": 500},
+         "positionF": {"x": 970, "y": 220},
+         "numEnem": 2,
+         "enem": [{"x": 250,"y": 450,"tipo": "esbirro", "minX": 200, "maxX": 350},
+                  {"x": 800,"y": 220,"tipo": "oso", "minX": 720, "maxX": 900}
+                 ]
+     },
+     {
+         "id": 18,
+         "position": {"x": 30, "y": 500},
+         "positionF": {"x": 970, "y": 200},
+         "numEnem": 3,
+         "enem": [{"x": 300,"y": 200,"tipo": "esbirro", "minX": 280, "maxX": 450},
+                  {"x": 500,"y": 180,"tipo": "defensor", "minX": 450, "maxX": 800},
+                  {"x": 900,"y": 200,"tipo": "torreta", "minX": 550, "maxX": 800}
+                 ]
+     },
+     {
+         "id": 19,
+         "position": {"x": 30, "y": 400},
+         "positionF": {"x": 970, "y": 400},
+         "numEnem": 3,
+         "enem": [{"x": 150,"y": 400,"tipo": "esbirro", "minX": 100, "maxX": 250},
+                  {"x": 300,"y": 400,"tipo": "esbirro", "minX": 250, "maxX": 500},
+                  {"x": 550,"y": 400,"tipo": "zeke", "minX": 500, "maxX": 800}
+                 ]      
+     },
+     {
+         "id": 20,
+         "position": {"x": 30, "y": 400},
+         "positionF": {"x": 970, "y": 400},
+         "numEnem": 5,
+         "enem": [{"x": 400,"y": 200,"tipo": "esbirro", "minX": 320, "maxX": 480},
+                  {"x": 700,"y": 200,"tipo": "torreta", "minX": 250, "maxX": 500},
+                  {"x": 800,"y": 200,"tipo": "torreta", "minX": 500, "maxX": 800},
+                  {"x": 700,"y": 400,"tipo": "rata", "minX": 500, "maxX": 800},
+                  {"x": 800,"y": 400,"tipo": "rata", "minX": 800, "maxX": 960}
+                 ]      
+     },
+     {
+         "id": 21,
+         "position": {"x": 30, "y": 350},
+         "positionF": {"x": 970, "y": 550},
+         "numEnem": 4,
+         "enem": [{"x": 200,"y": 350,"tipo": "defensor", "minX": 120, "maxX": 350},
+                  {"x": 400,"y": 350,"tipo": "esbirro", "minX": 350, "maxX": 600},
+                  {"x": 950,"y": 350,"tipo": "torreta", "minX": 500, "maxX": 800},
+                  {"x": 800,"y": 500,"tipo": "rata", "minX": 500, "maxX": 880}
+                 ]      
+     },
+     {
+         "id": 22,
+         "position": {"x": 30, "y": 350},
+         "positionF": {"x": 970, "y": 550},
+         "numEnem": 4,
+         "enem": [{"x": 200,"y": 350,"tipo": "esbirro", "minX": 100, "maxX": 300},
+                  {"x": 350,"y": 350,"tipo": "esbirro", "minX": 300, "maxX": 500},
+                  {"x": 550,"y": 350,"tipo": "oso", "minX": 500, "maxX": 600},
+                  {"x": 900,"y": 550,"tipo": "torreta", "minX": 500, "maxX": 800}           
+                 ]      
+     },
+     {
+         "id": 23,
+         "position": {"x": 30, "y": 550},
+         "positionF": {"x": 970, "y": 350},
+         "numEnem": 4,
+         "enem": [{"x": 200,"y": 500,"tipo": "esbirro", "minX": 110, "maxX": 900},
+                  {"x": 350,"y": 450,"tipo": "rata", "minX": 310, "maxX": 900},
+                  {"x": 550,"y": 400,"tipo": "rata", "minX": 510, "maxX": 900},
+                  {"x": 115,"y": 350,"tipo": "torreta", "minX": 500, "maxX": 800}           
+                 ]      
+     },
+     {
+         "id": 24,
+         "position": {"x": 30, "y": 250},
+         "positionF": {"x": 970, "y": 550},
+         "numEnem": 7,
+         "enem": [{"x": 200,"y": 250,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 350,"y": 250,"tipo": "torreta", "minX": 310, "maxX": 900},
+                  {"x": 650,"y": 250,"tipo": "torreta", "minX": 510, "maxX": 900},
+                  {"x": 400,"y": 400,"tipo": "esbirro", "minX": 350, "maxX": 500},
+                  {"x": 550,"y": 400,"tipo": "esbirro", "minX": 520, "maxX": 650},
+                  {"x": 450,"y": 550,"tipo": "esbirro", "minX": 350, "maxX": 500},
+                  {"x": 600,"y": 550,"tipo": "esbirro", "minX": 520, "maxX": 650}
+                 ]      
+     },
+     {
+         "id": 25,
+         "position": {"x": 30, "y": 300},
+         "positionF": {"x": 970, "y": 550},
+         "numEnem": 5,
+         "enem": [{"x": 100,"y": 550,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 410,"y": 300,"tipo": "torreta", "minX": 310, "maxX": 900},
+                  {"x": 710 ,"y": 550,"tipo": "torreta", "minX": 510, "maxX": 900},
+                  {"x": 400,"y": 550,"tipo": "esbirro", "minX": 200, "maxX": 450},
+                  {"x": 550,"y": 550,"tipo": "esbirro", "minX": 200, "maxX": 950}
+                 ]      
+     }, 
+     {
+         "id": 26,
+         "position": {"x": 30, "y": 550},
+         "positionF": {"x": 970, "y": 200},
+         "numEnem": 6,
+         "enem": [{"x": 125,"y": 300,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 650,"y": 300,"tipo": "torreta", "minX": 310, "maxX": 900},
+                  {"x": 800,"y": 550,"tipo": "torreta", "minX": 310, "maxX": 900},
+                  {"x": 400,"y": 300,"tipo": "defensor", "minX": 320, "maxX": 500},
+                  {"x": 450,"y": 550,"tipo": "esbirro", "minX": 400, "maxX": 600},
+                  {"x": 750,"y": 550,"tipo": "esbirro", "minX": 600, "maxX": 800}
+                 ]      
+     },
+     {
+         "id": 27,
+         "position": {"x": 30, "y": 550},
+         "positionF": {"x": 970, "y": 300},
+         "numEnem": 1,
+         "enem": [{"x": 820,"y": 300,"tipo": "torreta", "minX": 110, "maxX": 900}
+                 ]      
+     },
+     {
+         "id": 28,
+         "position": {"x": 30, "y": 550},
+         "positionF": {"x": 970, "y": 150},
+         "numEnem": 4,
+         "enem": [{"x": 930,"y": 350,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 930,"y": 500,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 400,"y": 500,"tipo": "esbirro", "minX": 260, "maxX": 440},
+                  {"x": 550,"y": 350,"tipo": "esbirro", "minX": 440, "maxX": 600}
+                 ]      
+     },
+     {
+         "id": 29,
+         "position": {"x": 30, "y": 550},
+         "positionF": {"x": 970, "y": 550},
+         "numEnem": 3,
+         "enem": [{"x": 150,"y": 250,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 930,"y": 300,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 500,"y": 300,"tipo": "esbirro", "minX": 350, "maxX": 650}
+                 ]      
+     },
+     {
+         "id": 30,
+         "position": {"x": 30, "y": 550},
+         "positionF": {"x": 970, "y": 550},
+         "numEnem": 5,
+         "enem": [{"x": 930,"y": 200,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 930,"y": 350,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 800,"y": 250,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 850,"y": 550,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 500,"y": 550,"tipo": "esbirro", "minX": 100, "maxX": 800}
+                 ]      
+     },
+     {
+         "id": 31,
+         "position": {"x": 30, "y": 550},
+         "positionF": {"x": 970, "y": 550},
+         "numEnem": 0,
+         "enem": [
+                 ]      
+     },
+     {
+         "id": 32,
+         "position": {"x": 30, "y": 550},
+         "positionF": {"x": 970, "y": 550},
+         "numEnem": 2,
+         "enem": [{"x": 400,"y": 550,"tipo": "torreta", "minX": 110, "maxX": 900},
+                  {"x": 700,"y": 550,"tipo": "torreta", "minX": 110, "maxX": 900}
+                 ]      
+     }   
+ ]
+}

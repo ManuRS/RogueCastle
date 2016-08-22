@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Rata.png">
+	<SubTexture name="walk instance 10000" x="11" y="19" width="48" height="35"/>
+	<SubTexture name="walk instance 10001" x="74" y="14" width="48" height="40"/>
+	<SubTexture name="walk instance 10002" x="74" y="14" width="48" height="40"/>
+	<SubTexture name="walk instance 10003" x="136" y="18" width="51" height="36"/>
+	<SubTexture name="walk instance 10004" x="197" y="19" width="49" height="35"/>
+	<SubTexture name="walk instance 10005" x="197" y="19" width="49" height="35"/>
+	<SubTexture name="attack instance 20006" x="14" y="144" width="49" height="36"/>
+	<SubTexture name="attack instance 20007" x="71" y="145" width="45" height="41"/>
+	<SubTexture name="attack instance 20008" x="124" y="142" width="37" height="38"/>
+	<SubTexture name="attack instance 20009" x="166" y="151" width="30" height="30"/>
+	<SubTexture name="attack instance 20010" x="203" y="151" width="30" height="30"/>
+	<SubTexture name="attack instance 20011" x="243" y="151" width="30" height="30"/>
+	<SubTexture name="dead instance 30012" x="20" y="292" width="47" height="32"/>
+	<SubTexture name="dead instance 30013" x="77" y="264" width="41" height="67"/>
+	<SubTexture name="dead instance 30014" x="129" y="264" width="49" height="66"/>
+	<SubTexture name="dead instance 30015" x="190" y="294" width="56" height="37"/>
+	<SubTexture name="dead instance 30016" x="326" y="296" width="47" height="35"/>
+</TextureAtlas>
