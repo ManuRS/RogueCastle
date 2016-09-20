@@ -34,7 +34,10 @@
 			1.0 Version inicial
 			
 			1.1 Ya es posible guardar y cargar
-		        Reducido numero de versiones (ya no hay 32 y 64 bits, todas son de 32)
+		        Testado en windows 32 y 64
+		        Parece no funcionar en linux
+		        No probado en mac
+		        Hay un bug al cargar con datos no importantes (importante=modedas)
 				
 				
 				
