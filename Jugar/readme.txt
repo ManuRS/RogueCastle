@@ -37,7 +37,7 @@
 		        Testado en windows 32 y 64
 		        Parece no funcionar en linux
 		        No probado en mac
-		        Hay un bug al cargar con datos no importantes (importante=modedas)
+		        Hay un bug al cargar con datos no importantes (importante=monedas)
 				
 				
 				
