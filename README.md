@@ -2,10 +2,25 @@
 
 Video game developed with phaser
 
-Game page https://manurs.github.io/RogueCastle/web/index.html
+[![Youtube video](http://img.youtube.com/vi/zF6SCxQZ-ww/0.jpg)](http://www.youtube.com/watch?v=zF6SCxQZ-ww)
 
-Play game https://manurs.github.io/RogueCastle
+Game page:
+https://manurs.github.io/RogueCastle/web/
 
-Visit "Jugar" folder to download the executable (Windows, Linux, Mac)
+Play game online:
+https://manurs.github.io/RogueCastle
 
-https://www.youtube.com/watch?v=zF6SCxQZ-ww
+Play game offline:
+https://github.com/manurs/RogueCastle/tree/master/Offline
+
+Actual errors (contribute!):
+https://github.com/manurs/RogueCastle/issues
+
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
+/////                                        ///// 
+/////              ROGUE CASTLE              ///// 
+/////    A Sloth Technologies producction    ///// 
+/////                                        /////
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
