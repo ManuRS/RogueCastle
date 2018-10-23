@@ -2,7 +2,7 @@
 
 Video game developed with phaser
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zF6SCxQZ-ww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Official trailer](https://raw.githubusercontent.com/manurs/RogueCastle/master/photo.png)](http://www.youtube.com/watch?v=zF6SCxQZ-ww "Official trailer")
 
 Webpage game:
 https://manurs.github.io/RogueCastle/web/
@@ -16,6 +16,8 @@ https://github.com/manurs/RogueCastle/tree/master/Offline
 Actual errors (contribute!):
 https://github.com/manurs/RogueCastle/issues
 
+
+```
 //////////////////////////////////////////////////
 
 //////////////////////////////////////////////////
@@ -31,3 +33,6 @@ https://github.com/manurs/RogueCastle/issues
 //////////////////////////////////////////////////
 
 //////////////////////////////////////////////////
+```
+
+![Sloth Technologies](https://raw.githubusercontent.com/manurs/RogueCastle/master/assets/fondos/sloth.png)

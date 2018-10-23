@@ -2,7 +2,7 @@
 
 https://github.com/manurs/RogueCastle/issues
 	 
-## VERSIONES
+# VERSIONES
 		 
 1.0 
 - Version inicial
