@@ -2,9 +2,9 @@
 
 Video game developed with phaser
 
-[![Youtube video](http://img.youtube.com/vi/zF6SCxQZ-ww/0.jpg)](http://www.youtube.com/watch?v=zF6SCxQZ-ww)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zF6SCxQZ-ww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Game page:
+Webpage game:
 https://manurs.github.io/RogueCastle/web/
 
 Play game online:
@@ -17,10 +17,17 @@ Actual errors (contribute!):
 https://github.com/manurs/RogueCastle/issues
 
 //////////////////////////////////////////////////
+
 //////////////////////////////////////////////////
+
 /////                                        ///// 
+
 /////              ROGUE CASTLE              ///// 
+
 /////    A Sloth Technologies producction    ///// 
+
 /////                                        /////
+
 //////////////////////////////////////////////////
+
 //////////////////////////////////////////////////

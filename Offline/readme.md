@@ -1,4 +1,6 @@
 # Check Issues page
+
+https://github.com/manurs/RogueCastle/issues
 	 
 ## VERSIONES
 		 
