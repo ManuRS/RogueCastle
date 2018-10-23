@@ -4,3 +4,5 @@
 - Donwload
 - Uncompress
 - Run Rogue Castle file and play
+
+#### Check main and issues pages!
