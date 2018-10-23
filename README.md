@@ -1,38 +1,21 @@
 # Rogue Castle
 
-Video game developed with phaser
+### Video game developed with phaser
 
-[![Official trailer](https://raw.githubusercontent.com/manurs/RogueCastle/master/photo.png)](http://www.youtube.com/watch?v=zF6SCxQZ-ww "Official trailer")
+#### Official trailer video:
 
-Webpage game:
-https://manurs.github.io/RogueCastle/web/
+[![Video](https://raw.githubusercontent.com/manurs/RogueCastle/master/photo.png)](http://www.youtube.com/watch?v=zF6SCxQZ-ww "Official trailer")
 
-Play game online:
-https://manurs.github.io/RogueCastle
+### [Game webpage game](https://manurs.github.io/RogueCastle/web/)
 
-Play game offline:
-https://github.com/manurs/RogueCastle/tree/master/Offline
+### [Play online](https://manurs.github.io/RogueCastle)
 
-Actual errors (contribute!):
-https://github.com/manurs/RogueCastle/issues
+### [Play offline](https://github.com/manurs/RogueCastle/tree/master/Offline)
 
+### [Check issues page (contribute!)](https://github.com/manurs/RogueCastle/issues)
 
-```
-//////////////////////////////////////////////////
+### [Changelog](https://github.com/manurs/RogueCastle/blob/master/CHANGELOG.md)
 
-//////////////////////////////////////////////////
+## Roge Castle, a Sloth Technologies producction 
 
-/////                                        ///// 
-
-/////              ROGUE CASTLE              ///// 
-
-/////    A Sloth Technologies producction    ///// 
-
-/////                                        /////
-
-//////////////////////////////////////////////////
-
-//////////////////////////////////////////////////
-```
-
-![Sloth Technologies](https://raw.githubusercontent.com/manurs/RogueCastle/master/assets/fondos/sloth.png)
+![Sloth Technologies logo](https://raw.githubusercontent.com/manurs/RogueCastle/master/assets/fondos/sloth.png)
