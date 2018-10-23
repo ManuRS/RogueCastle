@@ -4,7 +4,7 @@
 
 ### Official trailer video (click):
 
-[![Video](https://raw.githubusercontent.com/manurs/RogueCastle/master/photo.png)](http://www.youtube.com/watch?v=zF6SCxQZ-ww "Official trailer")
+![Video](https://raw.githubusercontent.com/manurs/RogueCastle/master/photo.png)(http://www.youtube.com/watch?v=zF6SCxQZ-ww "Official trailer")
 
 ### [Game webpage](https://manurs.github.io/RogueCastle/web/)
 
