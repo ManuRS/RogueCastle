@@ -8,6 +8,6 @@
 1.1 
 - Ya es posible guardar y cargar
 - Hay un bug al cargar con datos (monedas)
-- Windows 32 y 64: funciona aunque con un consumo excesivo de
+- Windows 32 y 64: funciona aunque con un consumo excesivo de RAM
 - Linux y online: al empezar a jugar eventualmente se queda congelado
 - Mac: no probado
