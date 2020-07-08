@@ -10,11 +10,9 @@
 
 ### [Play online](https://manurs.github.io/RogueCastle)
 
-### [Play offline](https://github.com/manurs/RogueCastle/tree/master/Offline)
-
-### [Check issues page (contribute!)](https://github.com/manurs/RogueCastle/issues)
-
 ### [Changelog](https://github.com/manurs/RogueCastle/blob/master/CHANGELOG.md)
+
+### [Spanish manual](https://github.com/manurs/RogueCastle/blob/master/Manual.pdf)
 
 ## Roge Castle, a Sloth Technologies production 
 
