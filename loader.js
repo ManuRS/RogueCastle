@@ -30,7 +30,7 @@ define(['game','states/mazmorra','states/dataLoader','states/menu','states/tiend
                 gastado: 0,
                 dist: 0,
                 //No es necesario almacenar
-                videoVisto: 1,
+                videoVisto: 0,
                 nivel: 0, 
                 vidasAuxRun: 0
             };
