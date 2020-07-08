@@ -569,8 +569,8 @@ define(['Phaser','../game', 'sprites/enemy', 'sprites/player', 'sprites/torreta'
     
     //Daño estandar torreta
     Mazmorra.prototype.damageTorreta = function () {
-        console.log('hit');
-        console.log(this.player.flagAttack);
+        //console.log('hit');
+        //console.log(this.player.flagAttack);
         if(this.torretas[this.i].flagInmortal==0){
             if(this.player.flagAttack==true){
                 if((this.player.scale.x==-1 && this.torretas[this.i].scale.x==1) || (this.player.scale.x==1 && this.torretas[this.i].scale.x==-1)){
