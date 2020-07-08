@@ -15,5 +15,6 @@ requirejs.config({
 });
 require(['loader'],
  function (loader) {
+    console.warn = function() {}
     loader.start();
  });
