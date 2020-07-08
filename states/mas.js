@@ -117,25 +117,25 @@ define(['Phaser','../game'], function (Phaser,Game){
                                       {font:this.font3, fill:this.fill3, backgroundColor:this.bg3 });
             }else{
                 /*Variables a cargar*/
-                Game.global.nivelMax=localStorage.getItem("nivelMax");
-                Game.global.score=localStorage.getItem("score");
-                Game.global.deads=localStorage.getItem("deads");
-                Game.global.deadsR=localStorage.getItem("deadsR");
-                Game.global.oro=localStorage.getItem("oro");
-                Game.global.espada1=localStorage.getItem("espada1");
-                Game.global.espada2=localStorage.getItem("espada2");
-                Game.global.espada3=localStorage.getItem("espada3");
-                Game.global.pocion1=localStorage.getItem("pocion1");
-                Game.global.pocion2=localStorage.getItem("pocion2");
-                Game.global.pocion3=localStorage.getItem("pocion3");
-                Game.global.defensa1=localStorage.getItem("defensa1");
-                Game.global.defensa2=localStorage.getItem("defensa2");
-                Game.global.defensa3=localStorage.getItem("defensa3");
-                Game.global.espadas=localStorage.getItem("espadas");
-                Game.global.remolino=localStorage.getItem("remolino");
-                Game.global.dash=localStorage.getItem("dash");
-                Game.global.gastado=localStorage.getItem("gastado");
-                Game.global.dist=localStorage.getItem("dist");
+                Game.global.nivelMax = parseInt( localStorage.getItem("nivelMax") );
+                Game.global.score    = parseInt( localStorage.getItem("score")    );
+                Game.global.deads    = parseInt( localStorage.getItem("deads")    );
+                Game.global.deadsR   = parseInt( localStorage.getItem("deadsR")   );
+                Game.global.oro      = parseInt( localStorage.getItem("oro")      );
+                Game.global.espada1  = parseInt( localStorage.getItem("espada1")  );
+                Game.global.espada2  = parseInt( localStorage.getItem("espada2")  );
+                Game.global.espada3  = parseInt( localStorage.getItem("espada3")  );
+                Game.global.pocion1  = parseInt( localStorage.getItem("pocion1")  );
+                Game.global.pocion2  = parseInt( localStorage.getItem("pocion2")  );
+                Game.global.pocion3  = parseInt( localStorage.getItem("pocion3")  );
+                Game.global.defensa1 = parseInt( localStorage.getItem("defensa1") );
+                Game.global.defensa2 = parseInt( localStorage.getItem("defensa2") );
+                Game.global.defensa3 = parseInt( localStorage.getItem("defensa3") );
+                Game.global.espadas  = parseInt( localStorage.getItem("espadas")  );
+                Game.global.remolino = parseInt( localStorage.getItem("remolino") );
+                Game.global.dash     = parseInt( localStorage.getItem("dash")     );
+                Game.global.gastado  = parseInt( localStorage.getItem("gastado")  );
+                Game.global.dist     = parseInt( localStorage.getItem("dist")     );
                 /***************************/
                 
                 this.label =Game.add.text(100, -200,
