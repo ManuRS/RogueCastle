@@ -565,7 +565,7 @@ define(['Phaser','../game'], function (Phaser,Game){
         this.timer=Game.time.create(false);
         this.timer.start();
         
-        console.log(param);
+        //console.log(param);
         if(param==1){
             //Nivel 1, 40 seg
             this.timeFin=this.timer.ms+40000;
